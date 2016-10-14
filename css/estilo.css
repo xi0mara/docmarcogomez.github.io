@@ -881,6 +881,10 @@ nav{
 /*.-..--------------*/
 
 h2{
-	display: block;
+/*	display: block;*/
 	color: white;
+}
+
+.titu{
+	padding-top:50vh;
 }
